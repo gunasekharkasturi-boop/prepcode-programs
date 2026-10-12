@@ -1,0 +1,1 @@
+a=[1,2,23]; a.count(value)
