@@ -1,1 +1,3 @@
-a=[1,2,23]; a.count(value)
+a = [1, 2, 2, 3]
+a.count
+print(a)
