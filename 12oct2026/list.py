@@ -1,1 +1,2 @@
-a=
+a = "abcd"
+print(a)
